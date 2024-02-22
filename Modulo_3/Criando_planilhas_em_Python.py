@@ -17,7 +17,7 @@ workbook = Workbook()
 # Nomeando a planilha:
 sheet_name = 'Funcionarios'
 
-# Criamos a planilha
+# Criando a planilha:
 workbook.create_sheet(sheet_name, 0)
 
 # Selecionando a planilha:
